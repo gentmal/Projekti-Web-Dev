@@ -1,0 +1,41 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    margin: 0;
+    background-color: #E6FDFF;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #e6fdff;
+    box-shadow: 3px 1px 10px 0px rgba(0, 0, 0, 0.75);
+    box-sizing: border-box;
+}
+
+header h1{
+    margin-left: 1rem;
+    letter-spacing: 5px;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.brand,
+nav {
+    margin: 0 50px 0 50px;
+    display: flex;
+    align-items: center;
+    
+}
+
+nav a {
+    letter-spacing: 1px;
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-weight: bold;
+}
