@@ -149,7 +149,7 @@ nav a {
 }
 
 .about-us{
-    background-image: url(images/adoptapet.jpg);
+    background-image: url('../images/adoptapet.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
