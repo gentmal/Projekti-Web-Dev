@@ -7,7 +7,7 @@
   
   body{
     background-color: #e6fdff;
-    background-image: url(images/bgimg2.png);
+    background-image: url('../images/bgimg2.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
